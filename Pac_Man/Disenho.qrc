@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PACMAN.png</file>
+        <file>Portada.jpg</file>
+        <file>Enemy.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>pacman-song.mp3</file>
+        <file>pacman-waka-waka.mp3</file>
+    </qresource>
+</RCC>
